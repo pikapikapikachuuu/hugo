@@ -1,0 +1,4 @@
+baseURL = "https://pikapikachu.xyz/"
+languageCode = "en-us"
+title = "Outer Space"
+theme = "base16"
